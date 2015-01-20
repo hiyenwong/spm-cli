@@ -1,0 +1,5 @@
+= spm
+
+Generate this with
+    spm rdoc
+After you have described your command line interface

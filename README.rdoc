@@ -1,0 +1,6 @@
+= spm
+
+Describe your project here
+
+:include:spm.rdoc
+
